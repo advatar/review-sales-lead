@@ -1,0 +1,25 @@
+{
+  "name": "review-sales-lead",
+  "version": "0.0.0",
+  "authors": [
+    "Johan Sellström <johan.sellstrom@ericsson.com>"
+  ],
+  "description": "A generic BPMN 2.0 diagram",
+  "main": "process.xml",
+  "keywords": [
+    "cloudfoundry",
+    "cloud",
+    "driblets",
+    "bpmn",
+    "crm"
+  ],
+  "license": "MIT",
+  "homepage": "http://review-sales-lead.cfapps.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
